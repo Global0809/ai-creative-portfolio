@@ -2,7 +2,9 @@
 
 ## GitHub Pages build
 
-The GitHub variant uses `/ai-creative-portfolio/` for Vite, catalogue requests and artwork/media/download paths. The production build passed. Local production-preview checks found all 27 catalogue works and 38 unique referenced asset URLs available with HTTP 200; artwork, original downloads, native podcast and video playback, the exact Suno link, and the iPad touch profile passed without page or HTTP errors. Public deployment is verified separately before sharing the website URL.
+The GitHub variant uses `/ai-creative-portfolio/` for Vite, catalogue requests and artwork/media/download paths. The production build passed. Local production-preview checks found all 27 catalogue works and 38 unique referenced asset URLs available with HTTP 200; artwork, original downloads, native podcast and video playback, the exact Suno link, and the iPad touch profile passed without page or HTTP errors.
+
+GitHub Pages deployment succeeded from static commit `b96f5be286f9c3f54f14b7b410244feef42858e9`. The same checks passed on the public, no-login URL https://global0809.github.io/ai-creative-portfolio/: all 38 asset requests succeeded, artwork loaded, podcast and video played, the Suno URL stayed exact, the iPad profile stayed active without overflow, and no page or HTTP errors occurred.
 
 ## Current tablet optimization
 
