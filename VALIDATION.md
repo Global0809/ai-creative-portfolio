@@ -1,5 +1,9 @@
 # Validation
 
+## GitHub Pages build
+
+The GitHub variant uses `/ai-creative-portfolio/` for Vite, catalogue requests and artwork/media/download paths. The production build passed. Local production-preview checks found all 27 catalogue works and 38 unique referenced asset URLs available with HTTP 200; artwork, original downloads, native podcast and video playback, the exact Suno link, and the iPad touch profile passed without page or HTTP errors. Public deployment is verified separately before sharing the website URL.
+
 ## Current tablet optimization
 
 - Default: one fullscreen 3D archive with warm peach atmosphere, dimensional project tiles and viewport navigation.
