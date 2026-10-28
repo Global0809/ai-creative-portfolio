@@ -1,0 +1,1 @@
+{"name":"ai-creative-portfolio","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview --host 127.0.0.1"},"dependencies":{"three":"^0.180.0","gsap":"^3.13.0","@phosphor-icons/web":"^2.1.2"},"devDependencies":{"vite":"^7.1.0"}}

@@ -1,0 +1,163 @@
+{
+  "reference": "https://bryangarage.dev/",
+  "fontSources": [
+    {
+      "font": "Geist",
+      "source": "https://github.com/vercel/geist-font",
+      "license": "https://github.com/vercel/geist-font/blob/main/OFL.txt"
+    },
+    {
+      "font": "Departure Mono",
+      "source": "https://github.com/rektdeckard/departure-mono",
+      "license": "https://github.com/rektdeckard/departure-mono/blob/main/public/assets/LICENSE"
+    }
+  ],
+  "iconSource": "https://github.com/phosphor-icons/web",
+  "rasters": [
+    {
+      "path": "/assets/images/IMG_4714.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "IMG_4714.PNG",
+      "id": "reels-shorts"
+    },
+    {
+      "path": "/assets/images/IMG_4715.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "IMG_4715.PNG",
+      "id": "viral-trending"
+    },
+    {
+      "path": "/assets/images/IMG_4716.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "IMG_4716.PNG",
+      "id": "formula-racing"
+    },
+    {
+      "path": "/assets/images/IMG_4717.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "IMG_4717.PNG",
+      "id": "internet-language"
+    },
+    {
+      "path": "/assets/images/IMG_4735.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "IMG_4735.PNG",
+      "id": "laptop-tablet"
+    },
+    {
+      "path": "/assets/images/IMG_4736.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "IMG_4736.PNG",
+      "id": "phone-privacy"
+    },
+    {
+      "path": "/assets/images/IMG_4737.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "IMG_4737.PNG",
+      "id": "viral-reel-process"
+    },
+    {
+      "path": "/assets/images/IMG_4738.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "IMG_4738.PNG",
+      "id": "world-without-internet"
+    },
+    {
+      "path": "/assets/images/IMG_4739.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "IMG_4739.PNG",
+      "id": "fake-news"
+    },
+    {
+      "path": "/assets/images/607FD351-303D-4970-954A-D275526E95EE.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "607FD351-303D-4970-954A-D275526E95EE.jpg",
+      "id": "apple-observation"
+    },
+    {
+      "path": "/assets/images/607FD351-303D-4970-954A-D275526E95EE-2.webp",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "607FD351-303D-4970-954A-D275526E95EE 2.jpg",
+      "id": "apple-aftermath"
+    },
+    {
+      "path": "/assets/media/formula-e-vs-f1-poster.jpg",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "How_Formula_E_Actually_Compares_to_F1.mp4",
+      "id": "formula-e-vs-f1"
+    },
+    {
+      "path": "/assets/media/tablet-vs-laptop-poster.jpg",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "Tablet_vs_Laptop__How_to_Choose_Your_Next_Device.mp4",
+      "id": "tablet-vs-laptop"
+    },
+    {
+      "path": "/assets/media/influencer-culture-hindi-poster.jpg",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "Video explainer.mp4",
+      "id": "influencer-culture-hindi"
+    },
+    {
+      "path": "/assets/media/youtube-shorts-vs-reels-poster.jpg",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "YouTube_Shorts_vs_Reels_in_2026.mp4",
+      "id": "youtube-shorts-vs-reels"
+    },
+    {
+      "path": "/assets/images/article-preview.jpg",
+      "origin": "User-supplied assignment asset or frame extracted from the supplied video.",
+      "sourceFilename": "Simple Newsletter 2.pages",
+      "id": "nepal-article"
+    },
+    {
+      "path": "/assets/grain.png",
+      "origin": "Deterministic procedural grayscale texture, random seed 4. Generated locally, not AI artwork."
+    },
+    {
+      "path": "/assets/originals/607FD351-303D-4970-954A-D275526E95EE 2.jpg",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/607FD351-303D-4970-954A-D275526E95EE.jpg",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/IMG_4714.PNG",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/IMG_4715.PNG",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/IMG_4716.PNG",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/IMG_4717.PNG",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/IMG_4735.PNG",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/IMG_4736.PNG",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/IMG_4737.PNG",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/IMG_4738.PNG",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    },
+    {
+      "path": "/assets/originals/IMG_4739.PNG",
+      "origin": "Original user-supplied assignment raster, preserved unchanged."
+    }
+  ],
+  "generatedSound": "Original Web Audio oscillator interaction sounds implemented in src/main.js; no external recording."
+}
